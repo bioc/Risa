@@ -14,7 +14,7 @@ The Risa package is available in Bioconductor:
 For more information about the ISA tools, consider: 
 
 - General info: <http://isa-tools.org>
-- Tools' overview in this short paper: <http://bioinformatics.oxfordjournals.org/content/26/18/2354.full.pdf+html>
+- ISA Tools' overview in this short paper: <http://bioinformatics.oxfordjournals.org/content/26/18/2354.full.pdf+html>
 - Issue tracking and bug reporting: <https://github.com/ISA-tools/Risa/issues>
 - Mainline source code: <https://github.com/ISA-tools/Risa>
 - Twitter: [@isatools](http://twitter.com/isatools)
@@ -31,7 +31,7 @@ BMC Bioinformatics 2014, 15(Suppl 1):S11  [doi:10.1186/1471-2105-15-S1-S11](http
 
 ## Development
 
-If you have feature requests or find any issues when using the tracker, please let us know through the issues tracker at [https://github.com/ISA-tools/Risa/issues]. 
+If you have feature requests or find any issues when using Risa, please let us know through the issues tracker at [https://github.com/ISA-tools/Risa/issues]. 
 
 ### Contributing
 
