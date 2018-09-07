@@ -2,7 +2,7 @@ bioconductor.version <- 3.1
 
 getPackagesInBiocView <- function(view, 
                                   reposUrl = c("BiocSoftware", "BiocAnnotationData", "BiocExperimentData"),
-                                  valid = bioconductor.version) {
+                                  version = bioconductor.version) {
         
     data("biocViewsVocab")
     
@@ -19,7 +19,7 @@ getPackagesInBiocView <- function(view,
     
     reposUrl <- paste(biocMirror,
                  "packages",
-                 valid,
+                 version,
                  biocPaths, 
                  sep = "/") 
     
